@@ -2,7 +2,7 @@
   "name": "aposente-bem",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://paulomoisessilva.github.io/aposente-bem",
+  "homepage": "https://aposente.paulomoises.com",
   "dependencies": {
     "git": "^0.1.5",
     "react": "^16.8.6",
