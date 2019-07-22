@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aposente-bem/static/css/main.a30b0605.chunk.css",
-    "main.js": "/aposente-bem/static/js/main.b0f70ce2.chunk.js",
-    "main.js.map": "/aposente-bem/static/js/main.b0f70ce2.chunk.js.map",
-    "runtime~main.js": "/aposente-bem/static/js/runtime~main.ef47cdb4.js",
-    "runtime~main.js.map": "/aposente-bem/static/js/runtime~main.ef47cdb4.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/aposente-bem/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/aposente-bem/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/aposente-bem/index.html",
-    "precache-manifest.601d1ba1adfc02696c930e825ebb1c31.js": "/aposente-bem/precache-manifest.601d1ba1adfc02696c930e825ebb1c31.js",
-    "service-worker.js": "/aposente-bem/service-worker.js",
-    "static/css/main.a30b0605.chunk.css.map": "/aposente-bem/static/css/main.a30b0605.chunk.css.map",
-    "static/media/index.css": "/aposente-bem/static/media/Tajawal-Light.fbca61ce.ttf"
+    "main.css": "/static/css/main.bd45d2c5.chunk.css",
+    "main.js": "/static/js/main.7e6dc8b7.chunk.js",
+    "main.js.map": "/static/js/main.7e6dc8b7.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e0693ccd21c9a8414a9e04b37e10e31b.js": "/precache-manifest.e0693ccd21c9a8414a9e04b37e10e31b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bd45d2c5.chunk.css.map": "/static/css/main.bd45d2c5.chunk.css.map",
+    "static/media/index.css": "/static/media/Tajawal-Light.fbca61ce.ttf"
   }
 }
