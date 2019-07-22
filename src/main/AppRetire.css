@@ -1,0 +1,12 @@
+.retire{
+    height: 500px;
+    width: 350px;
+    border-radius: 5px;
+    background: linear-gradient(to right, #11998e, #38ef7d);
+    overflow: hidden;
+    display: grid;
+}
+
+h1{
+    font-size: 1.5em;
+}

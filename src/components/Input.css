@@ -1,0 +1,16 @@
+.inp-tex{
+    text-shadow: 3%;
+    font-size: 120%;
+}
+
+.inp-inp-tex{
+    border-width: 0px;
+    padding: 0px;
+    width: 100%;
+    font-size: 120%;
+    border-radius: 3px;
+    background-color: rgba(255,255,255,0.3);
+    color: #FFF;
+    font-weight: bold;
+    text-align: center;
+}

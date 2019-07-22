@@ -1,0 +1,19 @@
+.botton-nav{
+    position: absolute;
+    left:0;
+    bottom:0;
+    right:0;
+    height: 60px;
+    width: 100%;
+    background-color: rgba(217, 217, 217, .6);
+    color: #161949;
+}
+
+a{
+    color: #11998e;
+    text-decoration: none;
+}
+a:visited {
+    color: #11998e;
+    text-decoration: none;
+  }
